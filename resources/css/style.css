@@ -24,3 +24,14 @@ h3 {
   color: white;
   background-color: dimgray;
 }
+
+.hero {
+  background-image: url("../images/flatiron-building.png");
+  text-align: center;
+  color: white;
+}
+
+.btn-nav {
+  color: white;
+  font-size: 18px;
+}
